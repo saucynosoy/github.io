@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @saucynosoy
+- 👋 @saucynosoy | saucynosoy.github.io
 - 👀 Fintech <> Digital Creative <> Angel
 - 🌐 saucynosoy.crypto
-- 📫 saucynosoy@unstoppabledomains.com
 
 <!---
 saucynosoy/saucynosoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
